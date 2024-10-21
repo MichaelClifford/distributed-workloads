@@ -3213,3 +3213,4 @@ if __name__ == "__main__":
         kubernetes.config.load_incluster_config()
 
     cli()
+    
